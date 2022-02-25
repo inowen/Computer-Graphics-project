@@ -1,21 +1,22 @@
 # Computer-Graphics-project
-Created with OpenGL as a final project in my computer graphics course at UGR.
-[mainview.png]
+Created with OpenGL as a final project in my computer graphics course at UGR. 
 
-###Wireframe mode
-[wireframe.png]
-[twocolors.png]
+![mainview.png](readme_resources/mainview.png)
 
-###Cameras
+### Wireframe mode
+![wireframe.png](readme_resources/wireframe.png)
+![twocolors.png](readme_resources/twocolors.png)
+
+### Cameras
 There are 3 cameras placed in the scene, each of them can move in 1st and 3d person and zoom in or out.
-[cameras.gif]
+![cameras.gif](readme_resources/cameras.gif)
 
-###Moving moon
+### Moving moon
 The moon moves around, and so does its light source.
-[moon.gif]
+![moon.gif](readme_resources/moon.gif)
 
-###Helicopter animations (both manual and automatic)
-[animations.gif]
+### Helicopter animations
+![animations.gif](readme_resources/animations.gif)
 
 
 ## Credit
